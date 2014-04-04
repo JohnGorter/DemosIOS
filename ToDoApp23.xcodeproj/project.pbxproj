@@ -22,6 +22,15 @@
 		D4933CAF18EECD02006B644F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4933C8E18EECD02006B644F /* UIKit.framework */; };
 		D4933CB718EECD02006B644F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4933CB518EECD02006B644F /* InfoPlist.strings */; };
 		D4933CB918EECD02006B644F /* ToDoApp23Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D4933CB818EECD02006B644F /* ToDoApp23Tests.m */; };
+		D4933CC518EECD33006B644F /* jgToDo.m in Sources */ = {isa = PBXBuildFile; fileRef = D4933CC418EECD33006B644F /* jgToDo.m */; };
+		D4933CC818EECD9D006B644F /* jgToDoManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D4933CC718EECD9D006B644F /* jgToDoManager.m */; };
+		D4933CCC18EED508006B644F /* MyTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4933CCB18EED508006B644F /* MyTestViewController.m */; };
+		D4933CCE18EED8B7006B644F /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D4933CCD18EED8B7006B644F /* Settings.bundle */; };
+		D4933CD218EEDDD7006B644F /* AboutViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4933CD018EEDDD7006B644F /* AboutViewViewController.m */; };
+		D4933CD318EEDDD7006B644F /* AboutViewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4933CD118EEDDD7006B644F /* AboutViewViewController.xib */; };
+		D4933CD618EEE128006B644F /* tempViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4933CD518EEE128006B644F /* tempViewController.m */; };
+		D4933CD818EEE346006B644F /* todo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4933CD718EEE346006B644F /* todo.jpg */; };
+		D4933CDB18EEE3B1006B644F /* ToDoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4933CDA18EEE3B1006B644F /* ToDoTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +64,21 @@
 		D4933CB418EECD02006B644F /* ToDoApp23Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToDoApp23Tests-Info.plist"; sourceTree = "<group>"; };
 		D4933CB618EECD02006B644F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D4933CB818EECD02006B644F /* ToDoApp23Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToDoApp23Tests.m; sourceTree = "<group>"; };
+		D4933CC318EECD33006B644F /* jgToDo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = jgToDo.h; sourceTree = "<group>"; };
+		D4933CC418EECD33006B644F /* jgToDo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = jgToDo.m; sourceTree = "<group>"; };
+		D4933CC618EECD9D006B644F /* jgToDoManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = jgToDoManager.h; sourceTree = "<group>"; };
+		D4933CC718EECD9D006B644F /* jgToDoManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = jgToDoManager.m; sourceTree = "<group>"; };
+		D4933CCA18EED508006B644F /* MyTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTestViewController.h; sourceTree = "<group>"; };
+		D4933CCB18EED508006B644F /* MyTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTestViewController.m; sourceTree = "<group>"; };
+		D4933CCD18EED8B7006B644F /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		D4933CCF18EEDDD7006B644F /* AboutViewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewViewController.h; sourceTree = "<group>"; };
+		D4933CD018EEDDD7006B644F /* AboutViewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewViewController.m; sourceTree = "<group>"; };
+		D4933CD118EEDDD7006B644F /* AboutViewViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AboutViewViewController.xib; sourceTree = "<group>"; };
+		D4933CD418EEE128006B644F /* tempViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tempViewController.h; sourceTree = "<group>"; };
+		D4933CD518EEE128006B644F /* tempViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tempViewController.m; sourceTree = "<group>"; };
+		D4933CD718EEE346006B644F /* todo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = todo.jpg; sourceTree = "<group>"; };
+		D4933CD918EEE3B1006B644F /* ToDoTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToDoTableViewController.h; sourceTree = "<group>"; };
+		D4933CDA18EEE3B1006B644F /* ToDoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ToDoTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +138,8 @@
 		D4933C9018EECD02006B644F /* ToDoApp23 */ = {
 			isa = PBXGroup;
 			children = (
+				D4933CC918EED4F1006B644F /* Controller */,
+				D4933CC218EECD0C006B644F /* Model */,
 				D4933C9918EECD02006B644F /* AppDelegate.h */,
 				D4933C9A18EECD02006B644F /* AppDelegate.m */,
 				D4933C9C18EECD02006B644F /* Main_iPhone.storyboard */,
@@ -129,10 +155,12 @@
 		D4933C9118EECD02006B644F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D4933CD718EEE346006B644F /* todo.jpg */,
 				D4933C9218EECD02006B644F /* ToDoApp23-Info.plist */,
 				D4933C9318EECD02006B644F /* InfoPlist.strings */,
 				D4933C9618EECD02006B644F /* main.m */,
 				D4933C9818EECD02006B644F /* ToDoApp23-Prefix.pch */,
+				D4933CCD18EED8B7006B644F /* Settings.bundle */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -153,6 +181,33 @@
 				D4933CB518EECD02006B644F /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D4933CC218EECD0C006B644F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D4933CC318EECD33006B644F /* jgToDo.h */,
+				D4933CC418EECD33006B644F /* jgToDo.m */,
+				D4933CC618EECD9D006B644F /* jgToDoManager.h */,
+				D4933CC718EECD9D006B644F /* jgToDoManager.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		D4933CC918EED4F1006B644F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D4933CCA18EED508006B644F /* MyTestViewController.h */,
+				D4933CCB18EED508006B644F /* MyTestViewController.m */,
+				D4933CCF18EEDDD7006B644F /* AboutViewViewController.h */,
+				D4933CD018EEDDD7006B644F /* AboutViewViewController.m */,
+				D4933CD118EEDDD7006B644F /* AboutViewViewController.xib */,
+				D4933CD418EEE128006B644F /* tempViewController.h */,
+				D4933CD518EEE128006B644F /* tempViewController.m */,
+				D4933CD918EEE3B1006B644F /* ToDoTableViewController.h */,
+				D4933CDA18EEE3B1006B644F /* ToDoTableViewController.m */,
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,6 +288,9 @@
 			files = (
 				D4933CA118EECD02006B644F /* Main_iPad.storyboard in Resources */,
 				D4933CA618EECD02006B644F /* Images.xcassets in Resources */,
+				D4933CCE18EED8B7006B644F /* Settings.bundle in Resources */,
+				D4933CD818EEE346006B644F /* todo.jpg in Resources */,
+				D4933CD318EEDDD7006B644F /* AboutViewViewController.xib in Resources */,
 				D4933C9E18EECD02006B644F /* Main_iPhone.storyboard in Resources */,
 				D4933C9518EECD02006B644F /* InfoPlist.strings in Resources */,
 			);
@@ -253,8 +311,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4933CDB18EEE3B1006B644F /* ToDoTableViewController.m in Sources */,
+				D4933CCC18EED508006B644F /* MyTestViewController.m in Sources */,
+				D4933CD218EEDDD7006B644F /* AboutViewViewController.m in Sources */,
 				D4933CA418EECD02006B644F /* ViewController.m in Sources */,
 				D4933C9B18EECD02006B644F /* AppDelegate.m in Sources */,
+				D4933CD618EEE128006B644F /* tempViewController.m in Sources */,
+				D4933CC818EECD9D006B644F /* jgToDoManager.m in Sources */,
+				D4933CC518EECD33006B644F /* jgToDo.m in Sources */,
 				D4933C9718EECD02006B644F /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

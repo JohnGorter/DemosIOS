@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "jgToDoManager.h"
+#import "jgToDo.h"
 #import "AppDelegate.h"
 
 int main(int argc, char * argv[])
